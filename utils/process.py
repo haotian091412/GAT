@@ -40,7 +40,7 @@ def sample_mask(idx, l):
     """Create mask."""
     mask = np.zeros(l)
     mask[idx] = 1
-    return np.array(mask, dtype=bool)
+    return np.array(mask, dtype=np.bool_)
 
 def load_data(dataset_str): # {'pubmed', 'citeseer', 'cora'}
     """Load data."""
