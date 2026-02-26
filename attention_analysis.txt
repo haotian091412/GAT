@@ -1,0 +1,60 @@
+============================================================
+Attention Weight Analysis
+============================================================
+
+
+layer_0_head_0:
+  Mean attention weight: 0.204162
+  Std attention weight:  0.120675
+  Max attention weight:   0.599564
+  Min attention weight:   0.005489
+  Sparsity (near-zero):   99.82%
+
+layer_0_head_1:
+  Mean attention weight: 0.204162
+  Std attention weight:  0.120534
+  Max attention weight:   0.507569
+  Min attention weight:   0.005786
+  Sparsity (near-zero):   99.82%
+
+layer_0_head_2:
+  Mean attention weight: 0.204162
+  Std attention weight:  0.120713
+  Max attention weight:   0.596432
+  Min attention weight:   0.005143
+  Sparsity (near-zero):   99.82%
+
+layer_0_head_3:
+  Mean attention weight: 0.204162
+  Std attention weight:  0.120547
+  Max attention weight:   0.526795
+  Min attention weight:   0.005912
+  Sparsity (near-zero):   99.82%
+
+layer_0_head_4:
+  Mean attention weight: 0.204162
+  Std attention weight:  0.120529
+  Max attention weight:   0.500002
+  Min attention weight:   0.005917
+  Sparsity (near-zero):   99.82%
+
+layer_0_head_5:
+  Mean attention weight: 0.204162
+  Std attention weight:  0.120531
+  Max attention weight:   0.514819
+  Min attention weight:   0.005915
+  Sparsity (near-zero):   99.82%
+
+layer_0_head_6:
+  Mean attention weight: 0.204162
+  Std attention weight:  0.120570
+  Max attention weight:   0.550112
+  Min attention weight:   0.005503
+  Sparsity (near-zero):   99.82%
+
+layer_0_head_7:
+  Mean attention weight: 0.204162
+  Std attention weight:  0.120806
+  Max attention weight:   0.617749
+  Min attention weight:   0.005031
+  Sparsity (near-zero):   99.82%
